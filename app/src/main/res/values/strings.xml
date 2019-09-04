@@ -1,0 +1,23 @@
+<resources>
+    // app name
+    <string name="app_name">Level1Task2LogicaApp</string>
+
+    // textView values
+    <string name="tv_title">Conjunction (AND)</string>
+    <string name="table_title_left">A</string>
+    <string name="table_title_middle">B</string>
+    <string name="table_title_right">A ^ B</string>
+    <string name="high_score">high score</string>
+
+
+    // True or False values
+    <string name="false_value">F</string>
+    <string name="true_value">T</string>
+
+    // Button values
+    <string name="button_submit">Submit</string>
+
+    // Toast messages
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
